@@ -1,0 +1,10 @@
+numpy
+pandas
+ydata-profiling
+matplotlib
+seaborn
+scikit-learn
+xgboost
+graphviz
+IPython
+shap
