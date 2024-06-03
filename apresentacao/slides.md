@@ -17,13 +17,9 @@
 
 - Imagens:
 
-    - ![imagem 1 da primeira versao da fight_data](img/slide2_1.png)
+    - # ![imagem 1 da primeira versao da fight_data](img/slide2_1.png) ••• ![imagem 2 da primeira versao da fight_data](img/slide2_2.png)
 
-    - ![imagem 2 da primeira versao da fight_data](img/slide2_2.png)
-
-    - ![imagem 1 da primeira versao da fighter_data](img/slide2_3.png)
-
-    - ![imagem 2 da primeira versao da fighter_data](img/slide2_4.png)
+    - # ![imagem 1 da primeira versao da fighter_data](img/slide2_3.png) ••• ![imagem 2 da primeira versao da fighter_data](img/slide2_4.png)
 
     - ![imagem da final_data](img/slide2_5.png)
 
