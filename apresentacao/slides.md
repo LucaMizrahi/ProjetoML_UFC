@@ -1,7 +1,7 @@
 ### Texto Corrido para a Apresentação
 
 **Slide 0: Título e Introdução**
-- **Caio**: "Olá, meu nome é Caio, e hoje eu, junto ao Gabriel e o Luca, apresentaremos nosso projeto sobre a previsão dos vencedores de lutas de UFC utilizando modelos de Machine Learning."
+- **Caio**: "Olá, meu nome é Caio, e hoje eu, o Gabriel e o Luca, apresentaremos nosso projeto sobre a previsão dos vencedores de lutas de UFC utilizando modelos de Machine Learning."
 
 **Slide 1: Objetivo do Projeto e Base de Dados**
 - **Gabriel**: "O objetivo do nosso projeto é identificar o modelo de classificação mais adequado para prever os vencedores das lutas de UFC. Para isso, utilizamos uma base de dados do kaggle chamada 'UFC-Fight historical data', que contém informações, de 1993 a 2021, sobre os lutadores, as lutas e os resultados. A base de dados inclui variáveis como altura, peso, histórico de lutas, golpes conectados, tentativas de queda, entre outras. Nosso trabalho foi baseado em realizar o pré-processamento dos dados, selecionar features, treinar diferentes modelos de classificação e avaliar o desempenho de cada um."
